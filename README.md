@@ -413,8 +413,3 @@ background-image: -moz-radial-gradient(5px);
    box-sizing: inherit;
 }
 
-.picture{
- transform: rotate(3px);
- padding: 3em;
- text-transform: none;
-}
